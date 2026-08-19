@@ -22,6 +22,7 @@ body{
     padding:30px;
     border-radius:15px;
     box-shadow:0 0 20px rgba(0,0,0,.15);
+     text-align:center;
 }
 
 input{
@@ -41,6 +42,19 @@ input{
     font-size:26px;
 }
 
+.containerCard{
+    margin-top:20px;
+    border:1px solid #ddd;
+    border-radius:12px;
+    padding:20px;
+    text-align:center;
+}
+
+.containerCard img{
+    margin:15px 0;
+    max-width:100%;
+}
+
 
 
 </style>
@@ -51,7 +65,12 @@ input{
 
 <div class="card">
 
-<h1>Containerregister</h1>
+<h1>CONTAINERKOLLEN</h1>
+
+
+<p>
+    <a href="containertyper.html">Containertyper</a>
+</p>
 
 <input
     id="search"
@@ -76,21 +95,30 @@ Laddar register...
 <script>
 
 let containers = {};
+let containerTypes = {};
 
 async function loadRegister(){
 
     try{
 
+        // Containerregister
         const response = await fetch("container.json");
-
         const data = await response.json();
 
         containers = {};
 
-        data.forEach(row => {
-
+        data.forEach(row=>{
             containers[String(row.id)] = row;
+        });
 
+        // Containertyper
+        const typeResponse = await fetch("containertyper.json");
+        const typeData = await typeResponse.json();
+
+        containerTypes = {};
+
+        typeData.forEach(row=>{
+            containerTypes[row.typ] = row;
         });
 
         document.getElementById("result").innerHTML =
@@ -103,7 +131,7 @@ async function loadRegister(){
         console.error(e);
 
         document.getElementById("result").innerHTML =
-            "Kunde inte läsa container.json";
+            "Kunde inte läsa json-filerna";
 
     }
 
@@ -133,17 +161,39 @@ function searchContainer(){
 
     }
 
-    div.innerHTML=`
+  const type = containerTypes[c.typ];
+
+div.innerHTML = `
+    <div class="containerCard">
 
         <h2>${c.typ}</h2>
 
-        ${c.note ? `<div class="note">${c.note}</div>` : ""}
+        ${
+            type?.bild
+            ? `<img src="${type.bild}" style="width:100%;border-radius:10px;">`
+            : ""
+        }
+
+        ${
+            c.note
+            ? `<p class="note"><strong>Notering:</strong> ${c.note}</p>`
+            : ""
+        }
 
         <p><strong>ID:</strong> ${c.id}</p>
 
-        
+        ${
+            type
+            ? `
+                <p><strong>Längd:</strong> ${type.langd} m</p>
+                <p><strong>Bredd:</strong> ${type.bredd} m</p>
+                <p><strong>Höjd:</strong> ${type.hojd} m</p>
+            `
+            : ""
+        }
 
-    `;
+    </div>
+`;
 
 }
 
