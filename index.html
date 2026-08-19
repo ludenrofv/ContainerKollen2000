@@ -17,12 +17,22 @@ body{
 
 .card{
     max-width:500px;
+    width:100%;
     margin:auto;
-    background:white;
     padding:30px;
+    background:white;
     border-radius:15px;
     box-shadow:0 0 20px rgba(0,0,0,.15);
-     text-align:center;
+
+    container-type:inline-size;
+}
+
+.card h1{
+    font-size: clamp(2rem, 10vw, 4.5rem);
+    line-height: .9;
+    margin: 0 0 30px;
+    text-align: center;
+    white-space: nowrap;
 }
 
 input{
@@ -196,6 +206,35 @@ div.innerHTML = `
 `;
 
 }
+
+function fitTitle() {
+
+    const title = document.querySelector(".card h1");
+    const card = document.querySelector(".card");
+
+    if (!title || !card) return;
+
+    let size = 80;
+
+    title.style.whiteSpace = "nowrap";
+
+    while (size > 20) {
+
+        title.style.fontSize = size + "px";
+
+        if (title.scrollWidth <= card.clientWidth - 60) {
+            break;
+        }
+
+        size--;
+
+    }
+
+}
+
+window.addEventListener("load", fitTitle);
+window.addEventListener("resize", fitTitle);
+
 
 window.onload = loadRegister;
 
