@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Containerregister</title>
+
+<style>
+
+body{
+    font-family:Arial;
+    background:#f4f4f4;
+    margin:40px;
+}
+
+.card{
+    max-width:500px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 20px rgba(0,0,0,.15);
+}
+
+input{
+    width:90%;
+    padding:15px;
+    font-size:24px;
+}
+
+.note{
+    margin-top:15px;
+    font-size:20px;
+    color:#666;
+}
+
+#result{
+    margin-top:30px;
+    font-size:26px;
+}
+
+
+
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<h1>Containerregister</h1>
+
+<input
+    id="search"
+    type="tel"
+    inputmode="numeric"
+    pattern="[0-9]*"
+    placeholder="Container-ID"
+    autocomplete="off"
+    autocorrect="off"
+    autocapitalize="off"
+    spellcheck="false"
+    oninput="searchContainer()">
+
+<div id="result">
+
+Laddar register...
+
+</div>
+
+</div>
+
+<script>
+
+let containers = {};
+
+async function loadRegister(){
+
+    try{
+
+        const response = await fetch("container.json");
+
+        const data = await response.json();
+
+        containers = {};
+
+        data.forEach(row => {
+
+            containers[String(row.id)] = row;
+
+        });
+
+        document.getElementById("result").innerHTML =
+            "Skriv ett ID.";
+
+    }
+
+    catch(e){
+
+        console.error(e);
+
+        document.getElementById("result").innerHTML =
+            "Kunde inte läsa container.json";
+
+    }
+
+}
+
+function searchContainer(){
+
+    const id =
+        document.getElementById("search").value.trim();
+
+    const div =
+        document.getElementById("result");
+
+    if(id===""){
+
+        div.innerHTML="";
+        return;
+
+    }
+
+    const c = containers[id];
+
+    if(!c){
+
+        div.innerHTML="Ingen träff";
+        return;
+
+    }
+
+    div.innerHTML=`
+
+        <h2>${c.typ}</h2>
+
+        ${c.note ? `<div class="note">${c.note}</div>` : ""}
+
+        <p><strong>ID:</strong> ${c.id}</p>
+
+        
+
+    `;
+
+}
+
+window.onload = loadRegister;
+
+</script>
+
+</body>
+</html>

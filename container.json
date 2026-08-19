@@ -1,0 +1,3517 @@
+[
+  {
+    "id": "771",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "0",
+    "typ": "LVX Kundens egna container",
+    "note": ""
+  },
+  {
+    "id": "0000",
+    "typ": "Lift Kundens egna container",
+    "note": ""
+  },
+  {
+    "id": "10001",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10002",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10003",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10006",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10007",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10008",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10009",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10010",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10012",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10019",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10022",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10026",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10027",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10028",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10033",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10035",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10036",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10038",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10039",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1004",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10043",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10045",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10049",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10051",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10053",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10054",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10058",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10059",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10060",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10063",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10064",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10066",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10068",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10070",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10071",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10076",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10077",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10080",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10082",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10083",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10084",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10086",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10087",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10088",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10089",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10090",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10091",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10092",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10093",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10094",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10095",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10096",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10097",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10098",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10099",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10100",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10102",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10103",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10104",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10106",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10107",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10108",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10109",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10110",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10113",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10114",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10116",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10117",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10118",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10119",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1012",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10120",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10122",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10123",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10125",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10126",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10127",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10128",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10129",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1013",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10130",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10131",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10132",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10133",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10134",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10135",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10136",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10137",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10138",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10139",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1014",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10140",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10141",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10142",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10146",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10147",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1015",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10150",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10151",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10152",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10153",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10154",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10155",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10159",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1016",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10160",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10161",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10162",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10163",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10164",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10165",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10166",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10167",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10169",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1017",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10170",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10171",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10172",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10173",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10174",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10175",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10176",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10177",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10178",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10179",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1018",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10180",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10181",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10182",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10183",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10184",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10185",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10186",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10187",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10188",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10189",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10190",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10191",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10192",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10193",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10194",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10195",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10196",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10197",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10198",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10199",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1020",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10200",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10201",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10203",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10204",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10205",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10206",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10207",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10208",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10209",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1021",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10210",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10211",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10212",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10213",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10214",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10215",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10216",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10217",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10218",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10219",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1022",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10220",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10221",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10223",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10224",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10225",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10226",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10227",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10228",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10229",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1023",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10230",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10231",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10232",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10233",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10234",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10235",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10236",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10237",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10238",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10239",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1024",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10240",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10241",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10242",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10243",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10244",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10245",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10246",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10247",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10248",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10249",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10250",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10251",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10252",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10253",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1027",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1028",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "1029",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10300",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10301",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10302",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10303",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10304",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10305",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10306",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10307",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10308",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10309",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10310",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10311",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10312",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10313",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10314",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10315",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10316",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10317",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10318",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10319",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1032",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10320",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10321",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10322",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10323",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10324",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10325",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10326",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10327",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10328",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10329",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1033",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1034",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1040",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10401",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10402",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10403",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10404",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10405",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1041",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1042",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1043",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10431",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10432",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10433",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10434",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10435",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1046",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "1047",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1048",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1049",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1050",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1051",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1052",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1053",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1055",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1057",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1058",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1059",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1060",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "10600",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10601",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10602",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10603",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10604",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10605",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10606",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10607",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10608",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10609",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1061",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10610",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10611",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10615",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10616",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10617",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10618",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10619",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10620",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10621",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10622",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10624",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10625",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10629",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1063",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10630",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10631",
+    "typ": "Lift Täckt 10m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "10650",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "10651",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1070",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "10800",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10801",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10802",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10803",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10804",
+    "typ": "LVX Öppen 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10850",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10851",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "10852",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1090",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1093",
+    "typ": "Lift Täckt 10m3 utan Dörr",
+    "note": ""
+  },
+  {
+    "id": "1095",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1096",
+    "typ": "LVX Täckt 10m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1111",
+    "typ": "LVX Kundens egna container",
+    "note": ""
+  },
+  {
+    "id": "1202",
+    "typ": "Lift öppen 10m3",
+    "note": ""
+  },
+  {
+    "id": "15001",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "15002",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1505",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1508",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1509",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1510",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1511",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1516",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1519",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1520",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1521",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1522",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1527",
+    "typ": "Lift Täckt 16m3",
+    "note": ""
+  },
+  {
+    "id": "1528",
+    "typ": "Lift Täckt 16m3",
+    "note": ""
+  },
+  {
+    "id": "1529",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1533",
+    "typ": "LVX Öppen 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1536",
+    "typ": "Lift Täckt 16m3",
+    "note": ""
+  },
+  {
+    "id": "1538",
+    "typ": "LVX Öppen 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1540",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1542",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1543",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1544",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1545",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1547",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1550",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1553",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1554",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1559",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1560",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1561",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1562",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1563",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1564",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1565",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1566",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1567",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1569",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1570",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1571",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1572",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1573",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1574",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1575",
+    "typ": "LVX Täckt 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1576",
+    "typ": "LVX Öppen 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1577",
+    "typ": "LVX Öppen 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1578",
+    "typ": "LVX Öppen 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1580",
+    "typ": "LVX Öppen 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1581",
+    "typ": "LVX Öppen 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1582",
+    "typ": "LVX Öppen 15m3 Kombi",
+    "note": ""
+  },
+  {
+    "id": "1590",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": "Lång"
+  },
+  {
+    "id": "1591",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": "Lång"
+  },
+  {
+    "id": "1592",
+    "typ": "Lift Täckt 16m3",
+    "note": ""
+  },
+  {
+    "id": "1593",
+    "typ": "Lift Täckt 16m3",
+    "note": ""
+  },
+  {
+    "id": "1594",
+    "typ": "Lift Täckt 16m3",
+    "note": ""
+  },
+  {
+    "id": "1595",
+    "typ": "Lift Täckt 16m3",
+    "note": ""
+  },
+  {
+    "id": "1600",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1601",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1602",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1603",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1604",
+    "typ": "Lift öppen 16m3 med Dörr",
+    "note": ""
+  },
+  {
+    "id": "1650",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1651",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1652",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1653",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1654",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1655",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1656",
+    "typ": "Lift öppen 16m3",
+    "note": ""
+  },
+  {
+    "id": "1901",
+    "typ": "LVX Öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "1902",
+    "typ": "LVX Öppen 22m3",
+    "note": ""
+  },
+  {
+    "id": "1903",
+    "typ": "LVX Öppen 22m3",
+    "note": ""
+  },
+  {
+    "id": "1904",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1905",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1906",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "1907",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "1908",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1909",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1910",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1911",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1912",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1913",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1914",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1915",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1916",
+    "typ": "LVX Öppen 22m3",
+    "note": ""
+  },
+  {
+    "id": "1917",
+    "typ": "LVX Öppen 22m3",
+    "note": ""
+  },
+  {
+    "id": "1918",
+    "typ": "LVX Öppen 22m3",
+    "note": ""
+  },
+  {
+    "id": "1919",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1920",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1921",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1922",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1923",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1924",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "1925",
+    "typ": "LVX Öppen 22m3",
+    "note": ""
+  },
+  {
+    "id": "1926",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1927",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1928",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1929",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1930",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1940",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1941",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1942",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1943",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1944",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1945",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1946",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1947",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1948",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1949",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1950",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1951",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1952",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1959",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1963",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "1964",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1967",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "1969",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "1970",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "1971",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "1972",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "1973",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "1975",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "1976",
+    "typ": "LVX Öppen 22m3",
+    "note": ""
+  },
+  {
+    "id": "1977",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "1978",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "1979",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1980",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1982",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1983",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1984",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1987",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1988",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1989",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "1990",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1991",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1992",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1993",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1994",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1995",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "1996",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1998",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "1999",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2001",
+    "typ": "Lift Maskinflak",
+    "note": ""
+  },
+  {
+    "id": "2003",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2004",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2005",
+    "typ": "Lift Täckt 20m3",
+    "note": ""
+  },
+  {
+    "id": "2007",
+    "typ": "Lift Täckt 20m3",
+    "note": ""
+  },
+  {
+    "id": "2011",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2015",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2016",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2018",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2019",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2021",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2022",
+    "typ": "Lift Täckt 20m3",
+    "note": ""
+  },
+  {
+    "id": "2023",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2025",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2026",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2027",
+    "typ": "Lift Täckt 20m3",
+    "note": ""
+  },
+  {
+    "id": "2028",
+    "typ": "Lift öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "2050",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2051",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2052",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2053",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2054",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2055",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2056",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2057",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2058",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2059",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2060",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2061",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2062",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "2063",
+    "typ": "LVX Öppen 20m3 Pressening",
+    "note": ""
+  },
+  {
+    "id": "2064",
+    "typ": "LVX Öppen 20m3 Pressening",
+    "note": ""
+  },
+  {
+    "id": "2065",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "22001",
+    "typ": "LVX Täckt 22m3 plåttak H, Högerhängt plåttak",
+    "note": ""
+  },
+  {
+    "id": "22002",
+    "typ": "LVX Täckt 22m3 plåttak V, Vänsterhängt plåttak",
+    "note": ""
+  },
+  {
+    "id": "2501",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2502",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2503",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2504",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2505",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2506",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2507",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2508",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2509",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2510",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2511",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2512",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2513",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2514",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2515",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2516",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2517",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2518",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "2519",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "3001",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3002",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3003",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3004",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3005",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3006",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3007",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3008",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3009",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "3010",
+    "typ": "LVX Täckt 30m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3011",
+    "typ": "LVX Täckt 30m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3012",
+    "typ": "LVX Täckt 30m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3013",
+    "typ": "LVX Täckt 30m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3014",
+    "typ": "LVX Täckt 30m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3502",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "35021",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3503",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "35031",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3504",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "35041",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3505",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "35051",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3506",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3507",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "3509",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3510",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3512",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3513",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "3514",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3517",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3518",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3519",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3520",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3521",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3522",
+    "typ": "LVX Täckt 35m3 Gallertak",
+    "note": ""
+  },
+  {
+    "id": "3523",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3524",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3525",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3526",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3527",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3528",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3529",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3531",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "3532",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3533",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3534",
+    "typ": "LVX Täckt 35m3 Plåttak",
+    "note": ""
+  },
+  {
+    "id": "3550",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "3551",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "3552",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "3553",
+    "typ": "LVX Öppen 35m3",
+    "note": ""
+  },
+  {
+    "id": "3554",
+    "typ": "LVX Öppen 38m3",
+    "note": ""
+  },
+  {
+    "id": "3555",
+    "typ": "LVX Öppen 38m3",
+    "note": ""
+  },
+  {
+    "id": "3556",
+    "typ": "LVX Öppen 38m3",
+    "note": ""
+  },
+  {
+    "id": "4000",
+    "typ": "Lift Kundens egna container",
+    "note": ""
+  },
+  {
+    "id": "5000",
+    "typ": "Lift Kundens egna container",
+    "note": ""
+  },
+  {
+    "id": "503",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "508",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "511",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "512",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "514",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "515",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "516",
+    "typ": "Lift öppen 5m3",
+    "note": ""
+  },
+  {
+    "id": "529",
+    "typ": "LVX Miniflak schakt Öppet Kombi",
+    "note": ""
+  },
+  {
+    "id": "531",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "532",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "533",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "535",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "536",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "538",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "539",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "540",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "541",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "542",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "543",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "544",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "545",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "546",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "547",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "548",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "549",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "550",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "551",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "552",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "553",
+    "typ": "Lift öppen 5m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "601",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "602",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "603",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "604",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "605",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "606",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "607",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "608",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "609",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "610",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "611",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "612",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "613",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "614",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "615",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "616",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "617",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "618",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "619",
+    "typ": "Lift Öppen 8m3 med Lyftöglor",
+    "note": ""
+  },
+  {
+    "id": "711",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "714",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "720",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "724",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "725",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "731",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "735",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "739",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "740",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "742",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "744",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "748",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "750",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "751",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "752",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "753",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "754",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "759",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "760",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "762",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "773",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "774",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "775",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "776",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "802",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "806",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "813",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "816",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "817",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "820",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "824",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "825",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "831",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "834",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "835",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "836",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "837",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "838",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "839",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "840",
+    "typ": "Lift öppen 7m3 Läm",
+    "note": ""
+  },
+  {
+    "id": "841",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "842",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "844",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "845",
+    "typ": "Lift öppen 7m3",
+    "note": ""
+  },
+  {
+    "id": "846",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "847",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "850",
+    "typ": "Lift Borrkaxcontainer",
+    "note": ""
+  },
+  {
+    "id": "9000",
+    "typ": "Lift Kundens egna container",
+    "note": ""
+  },
+  {
+    "id": "9001",
+    "typ": "Lift Cont Utlånad",
+    "note": ""
+  },
+  {
+    "id": "901",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "902",
+    "typ": "LVX Öppen 15m3",
+    "note": ""
+  },
+  {
+    "id": "903",
+    "typ": "LVX Täckt 25m3",
+    "note": ""
+  },
+  {
+    "id": "904",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "905",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "906",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "907",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "908",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "910",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "911",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "912",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "913",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "918",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "920",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "933",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "946",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "949",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "950",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "952",
+    "typ": "LVX Öppen 22m3",
+    "note": ""
+  },
+  {
+    "id": "954",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "956",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "957",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "959",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "960",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "961",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "963",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "965",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "966",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "967",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "969",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "972",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "973",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "975",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "976",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "978",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "980",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "983",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "986",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "988",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "992",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  },
+  {
+    "id": "993",
+    "typ": "LVX Öppen 30m3",
+    "note": ""
+  },
+  {
+    "id": "996",
+    "typ": "LVX Öppet schaktflak",
+    "note": ""
+  },
+  {
+    "id": "998",
+    "typ": "LVX Öppen 25m3",
+    "note": ""
+  },
+  {
+    "id": "999",
+    "typ": "LVX Öppen 20m3",
+    "note": ""
+  }
+]
