@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Containertyper</title>
+
+<style>
+
+body{
+    font-family:Arial;
+    background:#f4f4f4;
+    margin:40px;
+}
+
+.card{
+    max-width:500px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 20px rgba(0,0,0,.15);
+    text-align:center;
+}
+
+.back{
+    display:inline-block;
+    margin-bottom:20px;
+}
+
+.filterButtons{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    margin:20px 0;
+    flex-wrap:wrap;
+}
+
+.filterButtons button{
+    padding:10px 20px;
+    border:none;
+    border-radius:8px;
+    background:#0078d4;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.filterButtons button:hover{
+    background:#005ea6;
+}
+
+#list{
+    margin-top:30px;
+}
+
+.containerCard{
+    border:1px solid #ddd;
+    border-radius:12px;
+    padding:20px;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+.containerCard img{
+    max-width:100%;
+    margin:15px 0;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<a class="back" href="index.html">← Tillbaka</a>
+
+<h1>Containertyper</h1>
+
+<div class="filterButtons">
+    <button onclick="showTypes('Alla')">Alla</button>
+    <button onclick="showTypes('Lift')">Lift</button>
+    <button onclick="showTypes('LVX')">LVX</button>
+    <button onclick="showTypes('Kombi')">Kombi</button>
+</div>
+
+<div id="list">
+    Laddar...
+</div>
+
+</div>
+
+<script>
+
+let containerTypes = [];
+
+async function loadTypes(){
+
+    const response = await fetch("containertyper.json");
+
+    containerTypes = await response.json();
+
+    // Sortering
+    containerTypes.sort((a,b)=>{
+
+        function getGroup(typ){
+
+            if(typ.startsWith("Lift")) return 0;
+
+            if(typ.includes("Kombi")) return 1;
+
+            if(typ.startsWith("LVX")) return 2;
+
+            return 3;
+
+        }
+
+        const groupA = getGroup(a.typ);
+        const groupB = getGroup(b.typ);
+
+        if(groupA !== groupB){
+            return groupA-groupB;
+        }
+
+        return a.typ.localeCompare(b.typ,"sv");
+
+    });
+
+    showTypes("Alla");
+
+}
+
+function showTypes(filter){
+
+    const list = document.getElementById("list");
+
+    list.innerHTML = "";
+
+    let filtered = containerTypes;
+
+    if(filter==="Lift"){
+
+        filtered = containerTypes.filter(t =>
+            t.typ.startsWith("Lift")
+        );
+
+    }
+
+    else if(filter==="LVX"){
+
+        filtered = containerTypes.filter(t =>
+            t.typ.startsWith("LVX") &&
+            !t.typ.includes("Kombi")
+        );
+
+    }
+
+    else if(filter==="Kombi"){
+
+        filtered = containerTypes.filter(t =>
+            t.typ.includes("Kombi")
+        );
+
+    }
+
+    filtered.forEach(type=>{
+
+        list.innerHTML += renderContainerCard(type);
+
+    });
+
+}
+
+function renderContainerCard(type){
+
+    return `
+
+    <div class="containerCard">
+
+        <h2>${type.typ}</h2>
+
+        ${
+            type.bild
+            ? `<img src="${type.bild}">`
+            : ""
+        }
+
+        <p><strong>Längd:</strong> ${type.langd || "-"}</p>
+
+        <p><strong>Bredd:</strong> ${type.bredd || "-"}</p>
+
+        <p><strong>Höjd:</strong> ${type.hojd || "-"}</p>
+
+    </div>
+
+    `;
+
+}
+
+window.onload = loadTypes;
+
+</script>
+
+</body>
+</html>
