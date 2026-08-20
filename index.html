@@ -69,6 +69,13 @@ input{
     max-width:100%;
 }
 
+.imageLabel{
+    text-align:left;
+    margin:20px 0 0px 0;
+    
+    font-size:18px;
+}
+
 
 
 </style>
@@ -182,19 +189,23 @@ div.innerHTML = `
 
         <h2>${c.typ}</h2>
 
+         <p class="imageLabel"><strong>Exempelbild:</strong></p>
+
         ${
             type?.bild
             ? `<img src="${type.bild}" style="width:100%;border-radius:10px;">`
             : ""
         }
 
+       
+
+        <p><strong>ID:</strong> ${c.id}</p>
+
         ${
             c.note
             ? `<p class="note"><strong>Notering:</strong> ${c.note}</p>`
             : ""
         }
-
-        <p><strong>ID:</strong> ${c.id}</p>
 
         ${
             type
