@@ -6,6 +6,13 @@
     "bredd": "",
     "hojd": ""
   },
+    {
+    "typ": "Lift Bruksficka TB10",
+    "bild": "images/Lift Bruksficka TB10.png",
+    "langd": "",
+    "bredd": "",
+    "hojd": ""
+  },
   {
     "typ": "Lift Cont Utlånad",
     "bild": "images/Lift Cont Utlånad.png",
@@ -37,6 +44,13 @@
   {
     "typ": "Lift Täckt 10m3 utan Dörr",
     "bild": "images/Lift Täckt 10m3 utan Dörr.png",
+    "langd": "",
+    "bredd": "",
+    "hojd": ""
+  },
+    {
+    "typ": "Lift Täckt 10m3 Näbb",
+    "bild": "images/Lift Täckt 10m3 Näbb.png",
     "langd": "",
     "bredd": "",
     "hojd": ""
