@@ -1,157 +1,166 @@
-[
+
+ [
   {
     "typ": "Lift Borrkaxcontainer",
     "bild": "images/Lift Borrkaxcontainer.png",
-    "langd": "",
-    "bredd": "",
+    "langd": "1,9",
+    "bredd": "1,9",
     "hojd": ""
   },
-    {
+   {
+    "typ": "Lift Kaxlåda",
+    "bild": "images/Lift Kaxlåda.png",
+    "langd": "",
+    "bredd": "1,9",
+    "hojd": ""
+  },
+  {
     "typ": "Lift Bruksficka TB10",
     "bild": "images/Lift Bruksficka TB10.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift Cont Utlånad",
     "bild": "images/Lift Cont Utlånad.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift Kundens egna container",
     "bild": "images/Lift Kundens egna container.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift Maskinflak",
     "bild": "images/Lift Maskinflak.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift Täckt 10m3 med Dörr",
     "bild": "images/Lift Täckt 10m3 med Dörr.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift Täckt 10m3 utan Dörr",
     "bild": "images/Lift Täckt 10m3 utan Dörr.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "3,6",
+    "bredd": "1,9",
+    "hojd": "1,7"
   },
-    {
+  {
     "typ": "Lift Täckt 10m3 Näbb",
     "bild": "images/Lift Täckt 10m3 Näbb.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "3,9",
+    "bredd": "1,9",
+    "hojd": "2"
   },
   {
     "typ": "Lift Täckt 16m3",
     "bild": "images/Lift Täckt 16m3.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "4,6",
+    "bredd": "1,9",
+    "hojd": "2,3"
   },
   {
     "typ": "Lift Täckt 20m3",
     "bild": "images/Lift Täckt 20m3.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift öppen 10m3",
     "bild": "images/Lift öppen 10m3.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "3,4",
+    "bredd": "1,9",
+    "hojd": "1,7"
   },
   {
     "typ": "Lift öppen 16m3",
     "bild": "images/Lift öppen 16m3.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "4,6",
+    "bredd": "1,9",
+    "hojd": "2"
   },
   {
     "typ": "Lift öppen 16m3 med Dörr",
     "bild": "images/Lift öppen 16m3 med Dörr.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift öppen 25m3",
     "bild": "images/Lift öppen 25m3.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "5,5",
+    "bredd": "1,9",
+    "hojd": "2,6"
   },
   {
     "typ": "Lift öppen 5m3",
     "bild": "images/Lift öppen 5m3.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift öppen 5m3 Läm",
     "bild": "images/Lift öppen 5m3 Läm.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "3,3",
+    "bredd": "1,9",
+    "hojd": "1.1"
   },
   {
     "typ": "Lift öppen 7m3",
     "bild": "images/Lift öppen 7m3.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift öppen 7m3 Läm",
     "bild": "images/Lift öppen 7m3 Läm.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
     "typ": "Lift Öppen 8m3 med Lyftöglor",
     "bild": "images/Lift Öppen 8m3 med Lyftöglor.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "3,4",
+    "bredd": "1,9",
+    "hojd": "1,6"
   },
+
   {
     "typ": "LVX Miniflak schakt Öppet Kombi",
     "bild": "images/LVX Miniflak schakt Öppet Kombi.png",
     "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "bredd": "2,3",
+    "hojd": "0,9"
   },
   {
     "typ": "LVX Täckt 10m3 Kombi",
     "bild": "images/LVX Täckt 10m3 Kombi.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "4,1",
+    "bredd": "1,9",
+    "hojd": "1,7"
   },
   {
     "typ": "LVX Täckt 15m3 Kombi",
     "bild": "images/LVX Täckt 15m3 Kombi.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "4,5",
+    "bredd": "1,9",
+    "hojd": "2,2"
   },
   {
     "typ": "LVX Täckt 22m3 plåttak H, Högerhängt plåttak",
@@ -198,22 +207,22 @@
   {
     "typ": "LVX Öppen 10m3 Kombi",
     "bild": "images/LVX Öppen 10m3 Kombi.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "4,1",
+    "bredd": "1,9",
+    "hojd": "1,5"
   },
   {
     "typ": "LVX Öppen 15m3",
     "bild": "images/LVX Öppen 15m3.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "6,2",
+    "bredd": "2,6",
+    "hojd": "1,3"
   },
   {
     "typ": "LVX Öppen 15m3 Kombi",
     "bild": "images/LVX Öppen 15m3 Kombi.png",
     "langd": "",
-    "bredd": "",
+    "bredd": "1,9",
     "hojd": ""
   },
   {
@@ -247,9 +256,9 @@
   {
     "typ": "LVX Öppen 30m3",
     "bild": "images/LVX Öppen 30m3.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "6,2",
+    "bredd": "2,6",
+    "hojd": "2,4"
   },
   {
     "typ": "LVX Öppen 35m3",
@@ -268,8 +277,8 @@
   {
     "typ": "LVX Öppet schaktflak",
     "bild": "images/LVX Öppet schaktflak.png",
-    "langd": "",
-    "bredd": "",
-    "hojd": ""
+    "langd": "6,2",
+    "bredd": "2,6",
+    "hojd": "0,8"
   }
 ]

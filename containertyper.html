@@ -194,11 +194,9 @@ function renderContainerCard(type){
             : ""
         }
 
-        <p><strong>Längd:</strong> ${type.langd || "-"}</p>
-
-        <p><strong>Bredd:</strong> ${type.bredd || "-"}</p>
-
-        <p><strong>Höjd:</strong> ${type.hojd || "-"}</p>
+        <p><strong>Längd:</strong> ${type.langd ? type.langd + " m" : "-"}</p>
+        <p><strong>Bredd:</strong> ${type.bredd ? type.bredd + " m" : "-"}</p>
+        <p><strong>Höjd:</strong> ${type.hojd ? type.hojd + " m" : "-"}</p>
 
     </div>
 
